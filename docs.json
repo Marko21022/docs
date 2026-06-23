@@ -10,6 +10,9 @@
 	"fonts": {
 		"family": "Inter"
 	},
+  	"icons": {
+    	"library": "lucide"
+  	},
 	"favicon": "/favicon.svg",
 	"appearance": {
 		"default": "dark"
@@ -22,7 +25,31 @@
 					{
 						"group": "Getting started",
 						"pages": [
-							"index"
+							"index",
+							"Setting up"
+						]
+					},
+					{
+						"group": "Modules",
+						"pages": [
+							"modules/introduction",
+							"modules/general",
+							"modules/permissions",
+							"modules/verification",
+							"modules/moderation",
+							"modules/staff-m",
+							"modules/welcoming",
+							"modules/anti-ping",
+							"modules/sessions",
+							"modules/suggestions",
+							"modules/giveaways",
+							"modules/logging",
+							"modules/feedback",
+							"modules/economy",
+							"modules/game-i",
+							"modules/starboard",
+							"modules/sticky-r",
+							"modules/tweeter"
 						]
 					}
 				]
